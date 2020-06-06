@@ -1,1 +1,6 @@
+
 this is gameapp.
+
+this is musicapp.
+
+conflicts has been resolved bitch
